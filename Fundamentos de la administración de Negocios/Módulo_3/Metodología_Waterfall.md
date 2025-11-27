@@ -1,4 +1,3 @@
----
 🌊 vs 🏃‍♂️ 
 Resumen: Metodologías Waterfall y Agile
 
@@ -24,6 +23,7 @@ Resumen: Metodologías Waterfall y Agile
 🔄 Fases
 
 Sigue el ciclo de vida estándar, pero de forma estrictamente secuencial:
+
 Iniciar → Planificar → Ejecutar (Gestionar tareas) → Cerrar
 
 ✅ ¿Cuándo usarla?
